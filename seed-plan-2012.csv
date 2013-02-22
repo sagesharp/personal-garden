@@ -1,0 +1,42 @@
+#name,number plants wanted,number of weeks indoors,weeks until separate indoors,date of transplant/seeding outside,weeks until separate outdoors,days to harvest (from seeding),minimum germination rate,days to germination (min),days to germination (max),harvest destroys plant?
+#Tomatoes were planted too early - black cherry was bumping against grow lamp on 4/21
+#Cambridge Blue (flower indoors),3,10,3,2012-04-21,0,120,0.5,7,14,0
+#wanted: white globe radish (ping pong),,,,,,,,,,
+#should have sown poppies in feb (already sprouting in march)
+#Bok Choi (plastic jug starter),2,,,,,,,,,
+#Fall (July): Broccoli,,,,,,,,,,
+#Fall (July): Red Russian Kale,,,,,,,,,,
+#Fall (July): Snap peas,,,,,,,,,,
+#Fall (July): Kohlrabi,,,,,,,,,,
+#Fall (July): Lettuce,,,,,,,,,,
+#Fall (July): Spinach,,,,,,,,,,
+Genovese Basil,2,0,0,2012-05-11,5,60,0.75,5,10,0
+Elder Kolrabi (under clothe),3,6,2,2012-04-07,0,38,0.7,6,14,1
+Red Russian Kale,3,6,2,2012-04-07,0,120,0.5,3,10,0
+Broccoli,3,6,2,2012-04-07,0,120,0.5,3,10,0
+Bok Choi,2,6,2,2012-04-07,0,70,0.25,3,10,0
+Cosmos,1,0,0,2012-04-22,0,100,0.75,6,14,0
+Zinnia (flower indoors),3,6,2,2012-04-21,0,120,0.5,7,14,0
+Nasturtium (flower indoors),3,6,2,2012-04-21,0,120,0.5,7,14,0
+Dahlias,6,0,0,2012-05-19,0,80,1,15,30,0
+Provider Bush Snap Bean,40,0,0,2012-05-05,3,60,0.75,6,14,0
+Scarlet Runner Beans,40,1,0,2012-05-05,3,55,0.75,4,7,0
+Merida Overwintering Carrot,40,0,0,2012-05-11,3,70,0.25,10,21,0
+Diamond Eggplant,2,7,2,2012-05-26,0,80,0.85,10,14,0
+Divina Lettuce (early gamble batch),2,5,2,2012-03-31,0,55,0.25,7,14,1
+Divina Lettuce (frost batch outside),2,0,0,2012-04-21,2,55,0.25,7,14,1
+Cascadia Snap Pea,40,0,0,2012-03-03,0,65,0.75,5,14,0
+Olympia Spinach (clothe),15,0,0,2012-02-18,3,60,0.5,6,21,0
+Perennial flower mix (outdoors),10,0,0,2012-04-21,0,120,0.5,7,14,0
+Poppy (flowers),10,0,0,2012-03-24,0,120,0.5,7,14,0
+Sunflowers (outdoors),10,0,0,2012-04-21,0,120,0.5,7,14,0
+Valencia Tomato,2,11,2,2012-05-05,0,76,0.75,10,14,0
+Italian Heirloom Tomato,3,11,2,2012-05-05,0,80,0.75,10,14,0
+Yellow Pear Tomato,2,11,2,2012-05-05,0,80,0.75,6,14,0
+Black Cherry Tomato,2,11,2,2012-04-21,0,80,0.75,6,14,0
+Butternut Winter Squash,2,4,2,2012-05-05,0,90,0.5,3,10,0
+Brussels sprouts,4,0,0,2012-06-02,0,120,0.5,7,14,0
+New Zealand Spinach,4,0,0,2012-07-07,0,120,0.5,7,14,0
+English Shelling Peas,4,0,0,2012-07-07,0,120,0.5,7,14,0
+Kohlrabi,4,0,0,2012-07-07,0,120,0.5,7,14,0
+Ping Pong radishes,4,0,0,2012-07-07,0,120,0.5,7,14,0

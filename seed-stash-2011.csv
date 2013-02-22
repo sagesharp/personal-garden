@@ -1,0 +1,19 @@
+name,number plants wanted,number of weeks indoors (min),number of weeks indoors (max),weeks until separate indoors,date of transplant/seeding outside,weeks until separate outdoors,days to harvest (from seeding) min,days to harvest (from seeding) max,minimum germination rate,days to germination (min),days to germination (max),harvest destroys plant?
+Provider Bush Snap Bean,40,0,0,0,2011-05-14,3,,,,,,
+Scarlet Runner Beans,40,3,4,2,2011-04-30,3,45,55,75.00%,4,7,0
+Beets,5,0,0,0,2011-02-19,2,60,65,50.00%,5,10,1
+Broccoli,2,4,6,3,2011-03-19,0,85,120,75.00%,3,10,0
+Scarlet Nantes Carrot,40,0,0,0,2011-04-09,3,70,70,25.00%,10,21,0
+Early Snowball Cauliflower,2,6,8,3,2011-03-19,0,100,120,50.00%,4,10,1
+Diamond Eggplant,2,5,8,3,2011-05-07,0,70,80,85.00%,10,14,0
+Lacinato Kale,2,6,8,3,2011-02-19,0,100,120,50.00%,3,10,0
+Yugoslavian Red Lettuce (first batch),2,0,0,0,2011-04-23,2,55,55,25.00%,7,14,1
+Sugar Ann Snap Pea,40,0,0,0,2011-02-19,0,55,55,75.00%,5,14,0
+Cascadia Snap Pea,40,0,0,0,2011-02-19,0,65,65,75.00%,5,14,0
+Olympia Spinach (first batch),15,0,0,0,2011-02-19,3,45,45,50.00%,6,21,0
+Olympia Spinach (second batch),15,0,0,0,2011-03-19,3,45,45,50.00%,6,21,0
+Valencia Tomato,2,5,6,3,2011-04-30,0,76,76,75.00%,10,14,0
+Italian Heirloom Tomato,3,4,7,3,2011-04-30,0,70,80,75.00%,10,14,0
+BHN-624,2,5,6,3,2011-04-30,0,60,60,75.00%,10,14,0
+Yellow Pear Tomato,2,6,8,3,2011-04-30,0,75,80,75.00%,6,14,0
+Zepplin Delicata Winter Squash,2,4,4,2,2011-04-23,0,90,90,50.00%,3,10,0
