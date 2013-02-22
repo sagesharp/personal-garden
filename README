@@ -1,0 +1,9 @@
+This repo contains my personal garden plans for starting seeds, transplanting,
+thinning, and harvesting.  Please fork this, and enjoy your salads.
+
+The wacky csv files are meant to be fed into the src/plants.c program from
+https://github.com/sarahsharp/GardenGeek/.  It will spit out plain text or
+ical format for the garden calendar.
+
+I live in Portland, Oregon.  You probably want to modify this plan if you live
+elsewhere.
